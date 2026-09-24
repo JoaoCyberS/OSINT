@@ -33,4 +33,6 @@ The exercise was limited to the collection and analysis of information through o
 
 <h2>Project PDF</h2>
 
+[OSINT](https://github.com/JoaoCyberS/OSINT/blob/main/Reconhecimento%20Passivo%20(OSINT)%20censurado.pdf)
+
 <sub><i>The report contains identifiable information about employees, email addresses, and functional contact details. Therefore, some of the information has been censured.</i></sub>
