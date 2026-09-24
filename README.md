@@ -31,6 +31,6 @@ The results represent the information observed during the exercise and do not co
 The exercise was limited to the collection and analysis of information through open sources. No vulnerability exploitation tests or direct interactions with the entity's systems, networks, or employees were conducted, with the exception of downloading publicly indexed documents, as described in the report.
 
 
-<h2>Project</h2>
+<h2>Project PDF</h2>
 
 <sub><i>The report contains identifiable information about employees, email addresses, and functional contact details. Therefore, some of the information has been censured.</i></sub>
